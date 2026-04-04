@@ -1,16 +1,8 @@
-# pi.plug
+# pi.crstal
 
-meet pi.plug, my custom designed smart plug and first IoT project, all thanks to the nice peeps at Hack Club! This smart plug lets you control devices remotely, monitor power usage, and automate your home.
+A blinker board that is in thw shape of a crystal! 
 
 ---
-# Features
-
-1. Remote on/off control via Wi-Fi
-2. Power usage monitoring
-3. Automation and scheduling support
-4. Compact 3D printed enclosure
-
-
 ## Fusion 360
 
 ### Case
@@ -25,6 +17,9 @@ meet pi.plug, my custom designed smart plug and first IoT project, all thanks to
 | Schematic | PCB |
 | :-------: | :-: |
 | *(coming soon)* | *(coming soon)* |
+
+---
+# BOM
 
 ---
 # Softwares Used
