@@ -25,7 +25,6 @@ A blinker board that is in thw shape of a crystal!
 # Softwares Used
 
 * KiCAD -> PCB Design
-* Fusion 360 -> Case design
 * MicroPython / Arduino IDE -> Firmware
 
 ---
