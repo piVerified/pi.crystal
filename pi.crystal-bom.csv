@@ -1,0 +1,9 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB (minimum order qty is 5)","Main Circuitry",5,10.27,"https://robu.in/cart","Robu"
+"Jumper Wires (pack of 40)","To program the IC via a breadboard and rp2040 setup",1,0.54,"https://quartzcomponents.com/products/male-to-male-connecting-wires-jumper-wires-set-of-40?variant=45062845464810","Quartzcomponents"
+"CR2032 Battery Button Cell Holder - 20mm","For hold the cell",5,0.65,"https://quartzcomponents.com/products/cr2032-battery-button-cell-holder-20mm?variant=45714349555946","Quartzcomponents"
+"LDR Sensor (Light Dependent Resistor) - 5mm","Acts as a interface button",10,0.50,"https://quartzcomponents.com/products/ldr-light-dependent-resistor-5mm?variant=31898051543175","Quartzcompenets"
+"ATTINY85-20U","To intiate the blinig sequence",2,5.08,"https://quartzcomponents.com/products/attiny85-8-bit-avr-microcontroller?variant=33590640345223","Quartzcompenets"
+"Resistor (pack of 50)","to protect the led from current spikes",1,1.50,"https://www.flipkart.com/samaes-50-pics-10-ohm-1-watt-5-resistors-fixed-resistor/p/itm472d700363929?pid=RESG6HFFYTRZVUPM&lid=LSTRESG6HFFYTRZVUPM869DSI&marketplace=FLIPKART&pageUID=1775637263894","Flipkart"
+"Coin Cell (pack of 5)","to power the ckt",1,1.66,"https://www.flipkart.com/panasonic-cr-2032-battery/p/itmbd0412fc6ad6a?pid=ACCFZJTYAUTKVAUW&lid=LSTACCFZJTYAUTKVAUWVO1CZP&marketplace=FLIPKART&pageUID=1775637143852","Flipkart"
+"8mm pink led (pack of 100)","blinker lights",1,1.93,"https://www.flipkart.com/wizzo-100-pcs-transparent-pink-led-8mm-3v-dc-2-pin-light-electronic-hobby-kit/p/itmaf0b9e78784ea?pid=EHKH3FCSAGTEZKTE&lid=LSTEHKH3FCSAGTEZKTELBYI07&marketplace=FLIPKART&pageUID=1775284472455","Flipkart"
